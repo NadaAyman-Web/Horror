@@ -183,7 +183,7 @@ a{
 .dropdown:hover .dropdown-menu{
     display: block;
 }
-.header-icons{display: flex; flex-direction: row;align-items: center;margin-left:22px}
+.header-icons{display: flex; flex-direction: row;align-items: center;margin-left:25px}
 .logo{
     height: 72px;
     width:200px ;
@@ -594,7 +594,7 @@ position: absolute;
 }
 .image-short img{
     display:inline-block;
-    height: 100px; width: 100px;border-radius: 50%;margin:110px 0px 0px 510px;
+    height: 100px; width: 100px;border-radius: 50%;margin:110px 0px 0px 550px;
 }
 /* ///////////////////sectio-4//////////////////////// */
 .first-1{
