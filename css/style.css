@@ -183,7 +183,7 @@ a{
 .dropdown:hover .dropdown-menu{
     display: block;
 }
-.header-icons{display: flex; flex-direction: row;align-items: center;margin-left:30px}
+.header-icons{display: flex; flex-direction: row;align-items: center;margin-left:16px}
 .logo{
     height: 72px;
     width:200px ;
@@ -588,7 +588,7 @@ position: absolute;
 .he{
     color: #ffffff;
     display: inline-block;
-   transform: translateX(-200%);
+   transform: translateX(-193%);
    padding-top:80px ;
    font-family:"Eater",cursive  ;color:#7f0e0e;
 }
