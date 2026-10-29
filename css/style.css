@@ -183,7 +183,7 @@ a{
 .dropdown:hover .dropdown-menu{
     display: block;
 }
-.header-icons{display: flex; flex-direction: row;align-items: center; margin-left: -125px;}
+.header-icons{display: flex; flex-direction: row;align-items: center;margin-left:-40px}
 .logo{
     height: 72px;
     width:200px ;
@@ -588,13 +588,13 @@ position: absolute;
 .he{
     color: #ffffff;
     display: inline-block;
-   transform: translateX(-179%);
+   transform: translateX(-279%);
    padding-top:80px ;
    font-family:"Eater",cursive  ;color:#7f0e0e;
 }
 .image-short img{
     display:inline-block;
-    height: 100px; width: 100px;border-radius: 50%;margin:110px 0px 0px 430px;
+    height: 100px; width: 100px;border-radius: 50%;margin:110px 0px 0px 530px;
 }
 /* ///////////////////sectio-4//////////////////////// */
 .first-1{
